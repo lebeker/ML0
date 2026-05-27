@@ -1,0 +1,12 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+
+  "notebook.formatOnSave.enabled": true,
+
+  "jupyter.linting.enabled": false
+}
